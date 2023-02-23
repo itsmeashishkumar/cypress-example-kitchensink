@@ -3,7 +3,6 @@
 name: Cypress tests
 
 on: push
-
 jobs:
   test1:
     name: Cypress test
